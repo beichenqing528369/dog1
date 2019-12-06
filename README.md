@@ -14,3 +14,8 @@ Quadruped using servos and computer vision for navigation
  - Intel RealSense D435 depth camera
  - 12 x RDS3235 robot servo, 35kg, 180 degrees: https://www.aliexpress.com/item/32556521374.html
  
+
+
+https://www.youtube.com/watch?v=FhQWazvZQHE
+GitHub: https://github.com/steinhdan/dog1
+Autonomous navigating using vision only. Runs a path to collect images of an object to do photogrammetery scanning. Triggered by Google Home voice command.
